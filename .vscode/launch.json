@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorLesson1",
+            "request": "launch",
+            "mainClass": "chapter1.ConstructorLesson1",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "Fruit4",
+            "request": "launch",
+            "mainClass": "chapter1.Fruit4",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "InstanceIniLesson",
+            "request": "launch",
+            "mainClass": "chapter1.InstanceIniLesson",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasics",
+            "request": "launch",
+            "mainClass": "chapter1.JavaBasics",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "chapter1.Name",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "PrimitivesLesson",
+            "request": "launch",
+            "mainClass": "chapter1.PrimitivesLesson",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceLesson",
+            "request": "launch",
+            "mainClass": "chapter1.ReferenceLesson",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "Swan",
+            "request": "launch",
+            "mainClass": "chapter1.Swan",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "Toy",
+            "request": "launch",
+            "mainClass": "chapter1.Toy",
+            "projectName": "task-1_dff4024b"
+        },
+        {
+            "type": "java",
+            "name": "SunFlower",
+            "request": "launch",
+            "mainClass": "chapter2.SunFlower",
+            "projectName": "task-1_dff4024b"
+        }
+    ]
+}
